@@ -4,12 +4,10 @@
 \alias{PurchaserConfirm_view}
 \title{查询对账单}
 \usage{
-PurchaserConfirm_view(dms_token, FBILLNO)
+PurchaserConfirm_view(dms_token)
 }
 \arguments{
 \item{dms_token}{第二个参数}
-
-\item{FBILLNO}{}
 }
 \value{
 两个数的和
